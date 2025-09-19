@@ -1,0 +1,1 @@
+Este proyecto se basa en la creacion de una clase calculadora de la que se crea un jar, este se pasa a un proyecto distinto desde el cual se lanza y controla el proceso con las clases principales Runtime y Process . 
